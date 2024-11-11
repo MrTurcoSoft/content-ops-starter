@@ -96,7 +96,7 @@ sections:
   - type: GenericSection
     title:
       type: TitleBlock
-      text: Social Media Management
+      text: Hedeflenmiş Potansiyel Müşteriler ve Satış Başarınızı Artırın!
       color: text-dark
     subtitle: Increase your reach
     text: >
