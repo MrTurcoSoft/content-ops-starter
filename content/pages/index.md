@@ -737,7 +737,7 @@ sections:
     type: GenericSection
 seo:
   metaTitle: Ana Sayfa | Nielsen Chase Data Research LTD
-  metaDescription: This demo site is built with Netlify Create.
+  metaDescription: Ana Sayfa | Nielsen Chase Data Research LTD
   socialImage: /images/main-hero.jpg
   type: Seo
 type: PageLayout
