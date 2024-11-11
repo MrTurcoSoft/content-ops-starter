@@ -101,9 +101,29 @@ sections:
     subtitle: >-
       Güçlü müşteri adayı oluşturma çözümümüzle zahmetsizce yüksek kaliteli
       müşteri adayları oluşturun ve satış hattınızı güçlendirin.
-    text: >
-      A service that helps businesses to manage their social media accounts and
-      posts.
+    text: >+
+      *   **Gelişmiş Hedefleme**
+
+
+      Gelişmiş hedefleme özellikleriyle ideal kitlenize ulaşarak, pazarlama
+      çabalarınızı en alakalı potansiyel müşterilere odaklamanızı sağlar.
+
+
+      *   **Dönüşüm Optimizasyonu**
+
+
+      Dönüşüm odaklı stratejiler ve araçlarla müşteri adayı oluşturma sürecinizi
+      optimize edin.
+
+
+      *   **İhtiyaçlarınıza Özel Müşteri Çözümleri**
+
+
+      Belirlediğiniz kriterler doğrultusunda, potansiyel müşterileri tespit
+      edip, tüm iletişim bilgilerini sizinle paylaşıyoruz. Bu sayede,
+      hedeflediğiniz pazar segmentine ulaşarak satış fırsatlarınızı en üst
+      düzeye çıkarabilirsiniz.
+
     actions:
       - type: Button
         label: Get started
