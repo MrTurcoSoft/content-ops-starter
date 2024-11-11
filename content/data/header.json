@@ -38,13 +38,6 @@
             "iconPosition": "right",
             "style": "secondary",
             "type": "Link"
-        },
-        {
-            "label": "İletişim",
-            "altText": "İletişim",
-            "links": [],
-            "labelStyle": "primary",
-            "type": "SubNav"
         }
     ],
     "secondaryLinks": [
