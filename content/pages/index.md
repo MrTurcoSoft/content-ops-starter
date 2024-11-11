@@ -150,7 +150,12 @@ sections:
         Güçlü Yapay Zeka Hedef Pazar Otomasyonumuz ilePazarlamayı
         Kolaylaştırıyoruz
       color: text-dark
-    subtitle: Be in good company
+    subtitle: >-
+      Yapay zeka destekli hedef pazar otomasyonumuz sayesinde, pazarlama
+      süreçlerinizi daha hızlı ve etkili hale getiriyoruz. Veriye dayalı
+      içgörülerle doğru müşteri adaylarını belirleyip, pazarlama
+      stratejilerinizi kolayca uygulayarak işinizi büyütmenize yardımcı
+      oluyoruz.
     text: >
       A service that provides advice and guidance to startups and small
       businesses.
