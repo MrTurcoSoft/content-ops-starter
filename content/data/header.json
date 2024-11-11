@@ -42,7 +42,7 @@
         {
             "type": "Link",
             "label": "İletişim",
-            "altText": "Send",
+            "altText": "iletişim",
             "url": "/",
             "showIcon": true,
             "icon": "send",
