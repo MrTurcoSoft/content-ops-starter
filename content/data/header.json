@@ -24,7 +24,7 @@
         {
             "label": "Paketlerimiz",
             "altText": "Paketlerimiz",
-            "url": "/blog",
+            "url": "#price",
             "icon": "arrowRight",
             "iconPosition": "right",
             "style": "secondary",
