@@ -54,7 +54,7 @@
     "secondaryLinks": [
         {
             "label": "Giriş",
-            "url": "/",
+            "url": "https://user-portal.nielsenchase.com",
             "icon": "arrowRight",
             "iconPosition": "right",
             "style": "primary",
