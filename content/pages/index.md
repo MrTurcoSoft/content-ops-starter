@@ -156,9 +156,24 @@ sections:
       içgörülerle doğru müşteri adaylarını belirleyip, pazarlama
       stratejilerinizi kolayca uygulayarak işinizi büyütmenize yardımcı
       oluyoruz.
-    text: >
-      A service that provides advice and guidance to startups and small
-      businesses.
+    text: >+
+      *   **Hedeflenmiş Müşteri Segmentasyonu**
+
+
+      Yapay zeka destekli araçlarımızla, pazarınızı detaylı bir şekilde analiz
+      ederek en uygun müşteri segmentlerini belirliyoruz. Bu sayede, pazarlama
+      kampanyalarınızı daha hedeflenmiş ve etkili bir şekilde yürütmenize olanak
+      tanıyoruz.
+
+
+      *   **Veri Odaklı Pazarlama Stratejileri**
+
+
+      Yapay zeka ile güçlendirilmiş veri analizi çözümlerimiz, pazarlama
+      stratejilerinizi optimize eder. İleri düzey analizlerle pazar trendlerini
+      ve müşteri davranışlarını daha iyi anlamanızı sağlayarak, stratejilerinizi
+      en verimli şekilde oluşturmanıza yardımcı oluruz.
+
     actions:
       - type: Button
         label: Get started
