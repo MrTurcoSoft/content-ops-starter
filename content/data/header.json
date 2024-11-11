@@ -43,7 +43,7 @@
             "type": "Link",
             "label": "İletişim",
             "altText": "iletişim",
-            "url": "/",
+            "url": "/contact",
             "showIcon": true,
             "icon": "send",
             "iconPosition": "right",
