@@ -55,9 +55,24 @@ sections:
     subtitle: >-
       Büyümeyi desteklemek, müşteri deneyimini geliştirmek ve rekabette bir adım
       önde olmak için en yeni teknolojileri benimseyin.
-    text: >
-      A service that provides advice and guidance to startups and small
-      businesses.
+    text: >+
+      *   **Rekabette bir adım önde olun**
+
+
+      Rekabet avantajı elde etmek, uyarlanabilir pazar dinamiklerini anlamak ve
+      sektörünüzde lider olmak için Gelişmiş Yapay Zeka Pazar İstihbarat
+      Raporları ile inovasyonun kilidini açın.
+
+
+      *   **Pazar analizlerinizi optimize edin.**
+
+
+      Pazar analizlerinizi optimize etmek, stratejilerinizi güçlendirmenin
+      anahtarıdır. Yapay zeka ve veri analitiği kullanarak, hedef pazarlar
+      hakkında derinlemesine içgörüler elde edin ve daha etkili kararlar verin.
+      Bu sayede, değişen pazar koşullarına hızlı uyum sağlayarak rekabet
+      avantajı kazanabilirsiniz.
+
     actions:
       - type: Button
         label: Get started
