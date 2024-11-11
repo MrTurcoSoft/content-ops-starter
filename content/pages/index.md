@@ -12,7 +12,7 @@ sections:
     subtitle: >-
       Gelişmiş Yapay Zeka Pazar İstihbarat Raporlarının dönüştürücü gücüyle
       işinizi güçlendirin.
-    text: "\\*Gelişmiş Yapay Zeka Pazar İstihbarat Raporları (Advanced AI Market Intelligence Reports); Gümrük verileri, lead generation verileri ve yapay zeka ile hazırlanmış hedef pazar analiz raporlarıdır.\_**Nielsen Chase Data Research Ltd**\_tarafından geliştirilmiş bir hizmettir.\n"
+    text: "###### \\*Gelişmiş Yapay Zeka Pazar İstihbarat Raporları (Advanced AI Market Intelligence Reports); Gümrük verileri, lead generation verileri ve yapay zeka ile hazırlanmış hedef pazar analiz raporlarıdır.\_**Nielsen Chase Data Research Ltd**\_tarafından geliştirilmiş bir hizmettir.\n\n"
     actions:
       - label: Raporumuzu Deneyin
         altText: ''
