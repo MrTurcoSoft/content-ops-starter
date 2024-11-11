@@ -75,7 +75,7 @@ sections:
 
     actions:
       - type: Button
-        label: Get started
+        label: Raporumuzu Deneyin
         url: /
         icon: arrowRight
         iconPosition: right
