@@ -98,7 +98,9 @@ sections:
       type: TitleBlock
       text: Hedeflenmiş Potansiyel Müşteriler ve Satış Başarınızı Artırın!
       color: text-dark
-    subtitle: Increase your reach
+    subtitle: >-
+      Güçlü müşteri adayı oluşturma çözümümüzle zahmetsizce yüksek kaliteli
+      müşteri adayları oluşturun ve satış hattınızı güçlendirin.
     text: >
       A service that helps businesses to manage their social media accounts and
       posts.
