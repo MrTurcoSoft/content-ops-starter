@@ -174,7 +174,7 @@ sections:
       altText: Dope design preview
     badge:
       type: Badge
-      label: This is a badge
+      label: pazarlamayı kolaylaştırıyoruz
       color: text-primary
     colors: bg-neutral-fg-dark
     styles:
