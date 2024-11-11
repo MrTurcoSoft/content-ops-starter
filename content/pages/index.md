@@ -12,10 +12,7 @@ sections:
     subtitle: >-
       Gelişmiş Yapay Zeka Pazar İstihbarat Raporlarının dönüştürücü gücüyle
       işinizi güçlendirin.
-    text: >
-      A Netlify Create website is a git repo that you own. Every code commit is
-      instantly reflected in the visual editor and since every visual edit is a
-      git commit, git workflows and collaboration just work.
+    text: "\\*Gelişmiş Yapay Zeka Pazar İstihbarat Raporları (Advanced AI Market Intelligence Reports); Gümrük verileri, lead generation verileri ve yapay zeka ile hazırlanmış hedef pazar analiz raporlarıdır.\_**Nielsen Chase Data Research Ltd**\_tarafından geliştirilmiş bir hizmettir.\n"
     actions:
       - label: Get started
         altText: ''
