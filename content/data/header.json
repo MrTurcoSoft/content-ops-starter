@@ -53,7 +53,7 @@
     ],
     "secondaryLinks": [
         {
-            "label": "Log in",
+            "label": "Giriş",
             "url": "/",
             "icon": "arrowRight",
             "iconPosition": "right",
