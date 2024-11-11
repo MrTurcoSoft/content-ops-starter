@@ -32,7 +32,7 @@
         },
         {
             "label": "SSS",
-            "altText": "Careers page",
+            "altText": "Sıkça Sorulan Sorular",
             "url": "/careers",
             "icon": "arrowRight",
             "iconPosition": "right",
