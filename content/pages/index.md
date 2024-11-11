@@ -146,7 +146,9 @@ sections:
   - type: GenericSection
     title:
       type: TitleBlock
-      text: Business Consulting
+      text: >-
+        Güçlü Yapay Zeka Hedef Pazar Otomasyonumuz ilePazarlamayı
+        Kolaylaştırıyoruz
       color: text-dark
     subtitle: Be in good company
     text: >
