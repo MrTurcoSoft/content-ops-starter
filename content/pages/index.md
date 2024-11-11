@@ -1,5 +1,5 @@
 ---
-title: Home
+title: TR|Ana Sayfa
 slug: /
 sections:
   - type: GenericSection
