@@ -228,7 +228,7 @@ sections:
               - pr-8
             borderRadius: x-large
             flexDirection: col
-            borderWidth: 4
+            borderWidth: 0
     actions: []
     variant: three-col-grid
     colors: bg-neutral-fg-dark
