@@ -52,7 +52,9 @@ sections:
         Yapay zeka ve kapsamlı veri analizleri ile pazar fırsatlarınızı
         keşfedin.
       color: text-dark
-    subtitle: Be in good company
+    subtitle: >-
+      Büyümeyi desteklemek, müşteri deneyimini geliştirmek ve rekabette bir adım
+      önde olmak için en yeni teknolojileri benimseyin.
     text: >
       A service that provides advice and guidance to startups and small
       businesses.
