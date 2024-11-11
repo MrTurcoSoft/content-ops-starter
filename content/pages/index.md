@@ -48,7 +48,9 @@ sections:
   - type: GenericSection
     title:
       type: TitleBlock
-      text: Business Consulting
+      text: >-
+        Yapay zeka ve kapsamlı veri analizleri ile pazar fırsatlarınızı
+        keşfedin.
       color: text-dark
     subtitle: Be in good company
     text: >
