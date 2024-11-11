@@ -44,7 +44,7 @@
             "label": "İletişim",
             "altText": "iletişim",
             "url": "/contact",
-            "showIcon": true,
+            "showIcon": false,
             "icon": "send",
             "iconPosition": "right",
             "style": "secondary",
