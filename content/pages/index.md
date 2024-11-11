@@ -24,7 +24,7 @@ sections:
         elementId: ''
         type: Button
     media:
-      url: /images/372f4728ff3a128cb45318ffb9760aab_1200.svg
+      url: /images/372f4728ff3a128cb45318ffb9760aab_1200.png
       altText: >-
         Gelişmiş Yapay Zeka Pazar İstihbarat Raporlarının dönüştürücü gücüyle
         işinizi güçlendirin.
