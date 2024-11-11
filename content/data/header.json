@@ -23,7 +23,7 @@
         },
         {
             "label": "Paketlerimiz",
-            "altText": "Blog",
+            "altText": "Paketlerimiz",
             "url": "/blog",
             "icon": "arrowRight",
             "iconPosition": "right",
