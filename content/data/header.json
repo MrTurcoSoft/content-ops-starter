@@ -33,7 +33,7 @@
         {
             "label": "SSS",
             "altText": "Sıkça Sorulan Sorular",
-            "url": "/careers",
+            "url": "#sss",
             "icon": "arrowRight",
             "iconPosition": "right",
             "style": "secondary",
