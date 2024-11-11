@@ -12,7 +12,7 @@ sections:
     subtitle: >-
       Gelişmiş Yapay Zeka Pazar İstihbarat Raporlarının dönüştürücü gücüyle
       işinizi güçlendirin.
-    text: "```\n*Gelişmiş Yapay Zeka Pazar İstihbarat Raporları (Advanced AI Market Intelligence Reports); Gümrük verileri, lead generation verileri ve yapay zeka ile hazırlanmış hedef pazar analiz raporlarıdır.\_\n```\n\n"
+    text: "###### \\*Gelişmiş Yapay Zeka Pazar İstihbarat Raporları (Advanced AI Market Intelligence Reports); Gümrük verileri, lead generation verileri ve yapay zeka ile hazırlanmış hedef pazar analiz raporlarıdır.\_\n"
     actions:
       - label: Raporumuzu Deneyin
         altText: ''
